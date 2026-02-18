@@ -17,7 +17,7 @@ It allows users to connect their own dataset and instantly explore music trends,
 - Song Duration vs Popularity
 
 ## 📷 Dashboard Preview
-![Spotify Dashboard](Images/spotify_dashboard.png)
+![Spotify Dashboard](Images/sptfy.jpg)
 
 ## 🔗 Connect
 Created by **Manish Yadav**  
