@@ -18,6 +18,9 @@ It allows users to connect their own dataset and instantly explore music trends,
 
 ## 📷 Dashboard Preview
 ![Spotify Dashboard](Images/sptfy.jpg)
+![Spotify Dashboard](Images/sptfy2.jpg)
+![Spotify Dashboard](Images/sptfy3.jpg)
+![Spotify Dashboard](Images/sptfy4.jpg)
 
 ## 🔗 Connect
 Created by **Manish Yadav**  
