@@ -1,7 +1,7 @@
 # Spotify Power BI Template 🎶
 
 ## 📌 Overview
-This repository contains a Power BI template (`.pbit`) for analyzing Spotify streaming data.  
+This repository contains a Power BI template (`my_spotify.pbit`) for analyzing Spotify streaming data.  
 It allows users to connect their own dataset and instantly explore music trends, top artists, and genres.
 
 ## 🛠️ How to Use
@@ -20,5 +20,5 @@ It allows users to connect their own dataset and instantly explore music trends,
 ![Spotify Dashboard](Images/spotify_dashboard.png)
 
 ## 🔗 Connect
-Created by **Ashish**  
-[LinkedIn](your-linkedin-url) | [Portfolio](your-portfolio-url)
+Created by **Manish Yadav**  
+[LinkedIn](www.linkedin.com/in/manish1311yadav) | [Portfolio](your-portfolio-url)
